@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html>
   <head>
     <meta charset="utf-8">
@@ -12,6 +11,7 @@
       @yield('content')
       @include('layout._footer')
     </div>
-
+    <script src="/js/app.js"></script>
   </body>
+
 </html>

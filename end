@@ -1,0 +1,29 @@
+[33mcommit e3723255a305fc5bac8bb229c4238bbf7926db42[m
+Author: vagrant <vagrant@homestead>
+Date:   Thu Feb 1 11:55:58 2018 +0000
+
+    FInish user signup
+
+[33mcommit 1a14eb077fdc3f04b6a797117291a6aee8273ba4[m
+Author: vagrant <vagrant@homestead>
+Date:   Wed Jan 31 14:58:06 2018 +0000
+
+    Move user model to models folder
+
+[33mcommit c33b9464418b4ef7c68ceea5239ec31e39414421[m
+Author: vagrant <vagrant@homestead>
+Date:   Wed Jan 31 13:59:57 2018 +0000
+
+    Finish layout and routes
+
+[33mcommit c24f16f4ea91a035350104d2b7e9a65a7c06f7cf[m
+Author: vagrant <vagrant@homestead>
+Date:   Thu Jan 18 13:48:49 2018 +0000
+
+    Finish static pages
+
+[33mcommit 1355de64d2093e3240beef1e8b7090392228a34c[m
+Author: ZhuMeng <1445671444@qq.com>
+Date:   Wed Jan 17 16:27:39 2018 +0800
+
+    Initial commit
