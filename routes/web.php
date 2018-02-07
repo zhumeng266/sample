@@ -23,3 +23,6 @@ Route::resource('users','UsersController');
 Route::get('login','SessionController@create')->name('login');
 Route::post('login','SessionController@store')->name('login');
 Route::delete('logout','SessionCOntroller@destory')->name('logout');
+
+Route::get('/users/{user}/edit','UsersController@edit')->name('users.edit');
+//Route::get('/users/{user}/destory','UsersController@destory')->name('users.destory');
